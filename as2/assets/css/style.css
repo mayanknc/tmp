@@ -1,31 +1,12 @@
-body {  
-    font-family: Arial, sans-serif;  
-}  
-h1 {  
-    color: #1a73e8;  
-}  
-h2 {  
-    color: #34a853;  
-}  
-table {  
-    width: 50%;  
-    margin-top: 20px;  
-}  
-td {  
-    padding: 10px;  
-    border: 1px solid #dadce0;  
-}  
-img {  
-    width: 200px;  
-    height: 200px;  
-    margin-bottom: 20px;  
-}  
-a {  
-    display: inline-block;  
-    margin-top: 20px;  
-    color: #1a73e8;  
-    text-decoration: none;  
-}  
-a:hover {  
-    text-decoration: underline;  
-}  
+body {
+    background-color: lightyellow;
+    font-family: 'Verdana, sans-serif';
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin: 20px;
+}
